@@ -1,0 +1,5 @@
+{
+  "shared_state_cached": "shared response from redis",
+  "shared_state_score": 1.0,
+  "passed": true
+}
